@@ -273,7 +273,7 @@ Full-Width Styles
   margin: 0 auto;
 }
 
-.inner p {
+p.listing {
   padding-top: 20px;
 }
 
