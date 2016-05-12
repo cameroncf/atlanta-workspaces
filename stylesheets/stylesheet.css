@@ -98,10 +98,6 @@ p {
   margin: 10px 0 15px 0;
 }
 
-p strong {
-  padding-top: 20px;
-}
-
 footer p {
   color: #f2f2f2;
 }
@@ -274,6 +270,10 @@ Full-Width Styles
   max-width: 800px;
   padding: 20px 10px;
   margin: 0 auto;
+}
+
+.inner p {
+  padding-top: 20px;
 }
 
 #forkme_banner {
